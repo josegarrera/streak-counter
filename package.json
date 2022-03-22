@@ -1,8 +1,11 @@
 {
-	"name": "streak-counter",
-	"version": "1.0.0",
+	"name": "@josegarrera/streak-counter",
+	"version": "0.0.1",
 	"main": "index.js",
-	"repository": "https://github.com/josegarrera/streak-counter.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/josegarrera/streak-counter"
+	},
 	"author": "josegarrera <josegarrera@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
