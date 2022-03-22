@@ -10,6 +10,7 @@ npm install @josegarrera/streak-counter
 
 ## Usage
 
+[![Edit cool-lake-cvhsqh](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cool-lake-cvhsqh?fontsize=14&hidenavigation=1&theme=dark)
 import {streakCounter} from '@josegarrera/streak-counter'
 
 const today = new Date()
