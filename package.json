@@ -5,7 +5,7 @@
 		"type": "git",
 		"url": "https://github.com/josegarrera/streak-counter"
 	},
-	"author": "Jose Garrera <josegarrera@gmail.com>",
+	"author": "Josi Garrera <josegarrera@gmail.com>",
 	"license": "MIT",
 	"type": "module",
 	"types": "./dist/index.d.ts",
